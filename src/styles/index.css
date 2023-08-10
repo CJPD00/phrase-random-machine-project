@@ -1,0 +1,89 @@
+#quote-box {
+  padding: 3rem;
+  width: 500px;
+  min-width: 300px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 1%;
+}
+#quote-box button {
+  border-color: rgb(77, 74, 74);
+}
+
+#tweet-quote {
+  text-decoration: none;
+  color: inherit;
+}
+
+#new-quote {
+  border-radius: 7%;
+  color: white;
+}
+
+button:hover {
+  opacity: 90%;
+}
+
+.fa-solid {
+  margin-right: 1rem;
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.divButton {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2rem;
+}
+
+.color1 {
+  color: rgb(228, 71, 71);
+}
+
+.color2 {
+  color: rgb(69, 204, 69);
+}
+
+.color3 {
+  color: rgb(40, 56, 196);
+}
+
+.color4 {
+  color: rgb(214, 216, 73);
+}
+
+.color5 {
+  color: rgb(25, 27, 31);
+}
+
+.b-color1 {
+  background-color: rgb(228, 71, 71);
+}
+
+.b-color2 {
+  background-color: rgb(69, 204, 69);
+}
+
+.b-color3 {
+  background-color: rgb(40, 56, 196);
+}
+
+.b-color4 {
+  background-color: rgb(214, 216, 73);
+}
+
+.b-color5 {
+  background-color: rgb(25, 27, 31);
+}
+
+.trans {
+  transition: color 0.5s ease-in-out;
+}
+
+.trans-b {
+  transition: background-color 0.5s ease-in-out;
+}/*# sourceMappingURL=index.css.map */
